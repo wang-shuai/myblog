@@ -1,0 +1,11 @@
+
+
+.idea/inspectionProfiles/
+/config/*
+!config/default.*
+node_modules
+coverage
+npm-debug.log
+logs/
+
+.idea
